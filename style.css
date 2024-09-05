@@ -167,18 +167,14 @@ section button:hover {
 
 /* Estiliza a descrição meta dentro dos itens de resultado */
 .descricao-meta {
-    color: rgb(54, 44, 44);
+    color: rgb(255, 255, 255);
     margin: 0.5rem 0;
-    /* Margem acima e abaixo */
-}
-
-.cor-p {
-    color: #fafafa;
-    margin: 0.5rem 0;
-    /* Margem acima e abaixo */
     text-align: justify;
     font-weight: bold;
+    
 }
+
+
 
 .resultados-pesquisa::-webkit-scrollbar {
     width: 12px; /* Largura da barra de rolagem vertical */
