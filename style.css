@@ -15,13 +15,9 @@ body {
     align-items: center;
     /* Centraliza os itens horizontalmente */
     justify-content: center;
-    /* Centraliza os itens verticalmente */
     height: 100vh;
-    /* Preenche a altura total da viewport */
     margin: 0;
-    /* Remove a margem padrão */
     padding: 0;
-    /* Remove o padding padrão */
     overflow: hidden;
 }
 
