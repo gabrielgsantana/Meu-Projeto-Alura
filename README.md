@@ -22,6 +22,9 @@ Imagine um lugar onde você pode encontrar todas as informações sobre os ador�
 
 ### **Caso pegue o coala correndo na barra de baixo da pagina você desbloqueia um easter egg e ativa uma jogo escondido:** ###
 
+![image](https://github.com/user-attachments/assets/5c692bb5-eecd-4272-b6f7-f339e4471217)
+
+
 ###  **Prepare-se para a Aventura!**
 
 Esse é um joguinho simples onde você controla um coala que precisa pular obstáculos para chegar o mais longe possível. Vamos ver se você consegue ajudar o bichinho nessa maratona maluca!
