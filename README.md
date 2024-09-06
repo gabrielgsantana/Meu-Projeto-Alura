@@ -4,6 +4,9 @@
 
 ###  **Descubra Tudo Sobre Coalas com um Clique!**
 
+![image](https://github.com/user-attachments/assets/a35b24c4-46f8-48dc-82ef-c715789ba269)
+
+
 **O que é esse projeto?**
 
 Imagine um lugar onde você pode encontrar todas as informações sobre os adoráveis coalas, desde seu habitat até curiosidades super legais! Esse é o nosso projeto! 
