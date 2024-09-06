@@ -83,21 +83,3 @@ body{
      right: 100%;
     }
 }
-@keyframes nuvem1-animation {
-    from{
-    right: -550px;
-    }
-
-    to{
-     right: 100%;
-    }
-}
-@keyframes nuvem2-animation {
-    from{
-    right: -550px;
-    }
-
-    to{
-     right: 100%;
-    }
-}
