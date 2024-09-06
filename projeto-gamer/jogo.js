@@ -10,6 +10,10 @@ const pulo = () => {
   }, 500);
 }
 
+function atualizarPagina() {
+  location.reload();
+}
+
 const loop = setInterval(() => {
   console.log('loop');
 
@@ -24,6 +28,7 @@ const loop = setInterval(() => {
     nuvens.forEach(nuvem => {
       nuvem.style.animation = 'none'; // Para a animação da nuvem
     });
+
 
     coala.src = "./imagens/game-over.png";
     coala.style.width = '130px';

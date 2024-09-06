@@ -6,6 +6,7 @@
 body{
     overflow: hidden;
 }
+
 .game{
     width: 100%;
     height: 100vh;
@@ -14,6 +15,7 @@ body{
     position: relative;
     overflow: hidden;
 }
+
 .logo{
     width:250px ;
     margin-left: 45%;
@@ -24,6 +26,15 @@ body{
     position: absolute;
     bottom:0;
 }
+.botao{
+    position: absolute;
+    border-radius:10px;
+    background-color: rgba(20, 75, 20, 0.527);
+    margin-top: 50px;
+    height: 50px;
+    margin-left: 50px;
+}
+
 .pulo{
     animation: pulo 500ms ease-out;
 }
@@ -39,6 +50,8 @@ body{
     margin-top: 250px;
     animation: nuvem-animation  5s infinite linear;
 }
+
+
 
 
 
