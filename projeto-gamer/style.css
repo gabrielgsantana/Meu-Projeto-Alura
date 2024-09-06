@@ -14,6 +14,11 @@ body{
     position: relative;
     overflow: hidden;
 }
+.logo{
+    width:250px ;
+    margin-left: 45%;
+    position: absolute;
+}
 .coala{
     width: 130px;
     position: absolute;
