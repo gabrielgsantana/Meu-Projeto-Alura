@@ -19,7 +19,7 @@ ESSE SITE TEM COMO OBJETIVO TRAZER MAIS CONHECIMENTO SOBRE ANIMAIS EXOTICOS QUE 
 
 CREDITOS:
 
-Site Criado Durante o Projeto da Alura Imersão Dev com Google Gemini.
+Site Criado Durante o Projeto da Alura: Imersão Dev com Google Gemini.
 
 LINK PRO SITE DIRETO!
 https://gabrielgsantana.github.io/Meu-Projeto-Alura/
