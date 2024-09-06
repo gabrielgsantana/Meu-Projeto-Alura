@@ -52,3 +52,5 @@ Esse é um joguinho simples onde você controla um coala que precisa pular obst�
 
 
 **Divirta-se e boa corrida!**
+
+### **PROJETO FEITO DURANTE A IMERSÃO DEV DA ALURA COM GOOGLE GEMINI** ###
