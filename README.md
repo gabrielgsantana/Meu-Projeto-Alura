@@ -1,25 +1,56 @@
-# Meu-Projeto-Alura
-DESCRIÇÃO:
+### **Link direto do vercel https://meu-projeto-alura-psi.vercel.app** ###
 
-Minha ideia começou com o apelido que ganhei em um jogo online, no caso Coala e que fez eu ganhar gosto desse bichinho tao fofo entao quando veio a oportunidade de criar um site e escolher qualquer tema eu pensei porque nao fazer desse animal que eu tanto gosto e mostrar o quao direferente ele é.
+### **Link direto do GitHub https://gabrielgsantana.github.io/Meu-Projeto-Alura/** ###
 
-Entao no descorrer das aulas eu fui colocando em pratica esse meu projeto e junto com o gemini fui conseguindo novos conhecimentos sobre html,css e javascript e nessa de conhece mais tags fiquei com a duvida será que da para criar um jogo so usando o html,css e javascript e perguntei pro gemini se tinha como fazer e ele me falou que sim entao fui atras de ver como eu poderia colocar isso em pratica.
+###  **Descubra Coisas Sobre Coalas com um Clique!**
 
-E assim fui conhecendo mais e mais sobre o html,css e javascript comecei fazendo o jogo e foi uma grande dor de cabeça pois fui no erros e acertos fui testando oque cada coisa faz , terminei o jogo e ficou como eu queria porem agora sugiu o desafio como colocar o jogo na pagina principal de forma dinamica e como gosto de jogos antigo pensei pq nao colocar um easter egg e assim quando a pessoa clicasse nele iria direto para pagina.
+![image](https://github.com/user-attachments/assets/a35b24c4-46f8-48dc-82ef-c715789ba269)
 
-Porem como eu faria esse easter egg entao depois de muito tempo pensando peguei o gif que eu tinha feito e resolvi colocar na parte de baixo da pagina pq assim sempre que alguem clicasse nele iria ser jogado direto para pagina do jogo mas primeiro perguntei pro gemini se eu poderia colocar link clicavel em alguma imagem/gif e ele disse que sim entao fui atras de colocar minha ideia do easter egg pra frente porem me deu mais dor de cabeça pois nao importasse oque eu fazia dava erro eu arrumava de um lado ai o outro lado fica ruim sksksks depois de 3horas dando erro eu decidi apagar tudo e começar novamente e essa foi a melhor escolha que eu fiz pois assim eu achei extamente oq tava dando erro antes e removi.
 
-TECNOLOGIAS USADAS NESSE PROJETO:
+**O que é esse projeto?**
 
-HTML
-CSS
-JAVASCRIPT
+Imagine um lugar onde você pode encontrar algumas informações sobre os adoráveis coalas, desde seu habitat até curiosidades super legais! Esse é o nosso projeto! 
 
-ESSE SITE TEM COMO OBJETIVO TRAZER MAIS CONHECIMENTO SOBRE ANIMAIS EXOTICOS QUE NÃO TEM MUITAs INFORMAÇÕES DELES E MAIS PRA FRENTE PRETENDO COLOCAR MAIS SOBRE OUTROS ANIMAIS EXOTICOS!
+**Como funciona a mágica?**
 
-CREDITOS:
+1. **Pesquise à vontade:** Digite qualquer palavra relacionada a coalas no campo de pesquisa.
+2. **Resultados instantâneos:** A página te mostra tudo que encontrou sobre o seu termo, como se fosse um detetive dos coalas!
+3. **Mais informações:** Quer saber ainda mais? Clique nos links e explore o mundo dos coalas!
 
-Site Criado Durante o Projeto da Alura: Imersão Dev com Google Gemini.
+**Tecnologias usadas:**
 
-LINK PRO SITE DIRETO!
-https://gabrielgsantana.github.io/Meu-Projeto-Alura/
+* **HTML:** A estrutura básica da nossa página, como se fosse o esqueleto de um site.
+* **CSS:** O responsável por deixar tudo bonitinho e organizado, como um designer de interiores.
+* **JavaScript:** O cérebro da operação, fazendo com que tudo funcione direitinho e respondendo aos seus comandos.
+
+### **Caso pegue o coala correndo na barra de baixo da pagina você desbloqueia um easter egg e ativa uma jogo escondido:** ###
+
+![image](https://github.com/user-attachments/assets/f3659577-0110-4a0c-a34d-5e9f46888e73)
+
+
+
+###  **Prepare-se para a Aventura!**
+
+Esse é um joguinho simples onde você controla um coala que precisa pular obstáculos para chegar o mais longe possível. Vamos ver se você consegue ajudar o bichinho nessa maratona maluca!
+
+**Como jogar:**
+
+* Use a tecla **espaço** para fazer o coala pular.
+* Esquive dos obstáculos para não acabar o jogo.
+
+**Mostre suas habilidades:**
+
+* Até onde você consegue levar o coala?
+* Tente bater o seu próprio recorde!
+
+**Por trás da brincadeira:**
+
+* **HTML:** Define a estrutura básica do jogo, como o campo de visão e os elementos.
+* **CSS:** Dá vida ao jogo, deixando tudo bonitinho e posicionando os elementos.
+* **JavaScript:** O cérebro do jogo, detectando comandos do teclado e controlando a movimentação do coala e dos obstáculos.
+
+
+
+**Divirta-se e boa corrida!**
+
+### **PROJETO FEITO DURANTE A IMERSÃO DEV DA ALURA COM GOOGLE GEMINI** ###
