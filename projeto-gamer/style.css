@@ -37,20 +37,9 @@ body{
     position: absolute;
     width:550px;
     margin-top: 250px;
-    animation: nuvem-animation  10s infinite linear;
+    animation: nuvem-animation  5s infinite linear;
 }
-.nuvem1{
-    position: absolute;
-    width:550px;
-    margin-top: 250px;
-    animation: nuvem-animation  9s infinite linear;
-}
-.nuvem2{
-    position: absolute;
-    width:550px;
-    margin-top: 250px;
-    animation: nuvem-animation  8s infinite linear;
-}
+
 
 
 @keyframes pulo {
@@ -86,6 +75,24 @@ body{
 }
 
 @keyframes nuvem-animation {
+    from{
+    right: -550px;
+    }
+
+    to{
+     right: 100%;
+    }
+}
+@keyframes nuvem1-animation {
+    from{
+    right: -550px;
+    }
+
+    to{
+     right: 100%;
+    }
+}
+@keyframes nuvem2-animation {
     from{
     right: -550px;
     }
