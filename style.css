@@ -28,7 +28,7 @@ body::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.425); /* Cor de sobreposição preta com 30% de opacidade */
+    background: rgba(0, 0, 0, 0.384); /* Cor de sobreposição preta com 30% de opacidade */
     z-index: -1; /* Garante que a camada de sobreposição fique atrás do conteúdo */
 }
 
@@ -69,7 +69,7 @@ section input {
     /* Borda arredondada */
     margin-bottom: 1rem;
     /* Espaçamento abaixo dos inputs */
-    color: #0f4404;
+    color: #f0f3f0;
     /* Cor do texto */
     font-size: 1rem;
     /* Tamanho da fonte */
