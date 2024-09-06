@@ -2,7 +2,7 @@
 
 ### **Link direto do GitHub https://gabrielgsantana.github.io/Meu-Projeto-Alura/** ###
 
-###  **Descubra Tudo Sobre Coalas com um Clique!**
+###  **Descubra Coisas Sobre Coalas com um Clique!**
 
 ![image](https://github.com/user-attachments/assets/a35b24c4-46f8-48dc-82ef-c715789ba269)
 
