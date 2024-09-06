@@ -16,7 +16,7 @@ Imagine um lugar onde você pode encontrar todas as informações sobre os ador�
 * **CSS:** O responsável por deixar tudo bonitinho e organizado, como um designer de interiores.
 * **JavaScript:** O cérebro da operação, fazendo com que tudo funcione direitinho e respondendo aos seus comandos.
 
-### **Caso pegue o coala correndo na parte final da pagina você desbloqueia um easter egg e ativa uma jogo escondido:** ###
+### **Caso pegue o coala correndo na barra de baixo da pagina você desbloqueia um easter egg e ativa uma jogo escondido:** ###
 
 ###  **Prepare-se para a Aventura!**
 
