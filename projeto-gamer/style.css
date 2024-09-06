@@ -8,7 +8,7 @@ body{
 }
 .game{
     width: 100%;
-    height: 1000px;
+    height: 100vh;
     border-bottom: 30px solid rgb(55, 107, 62);
     background :linear-gradient(rgb(14, 210, 236),rgb(254, 255, 254));
     position: relative;
