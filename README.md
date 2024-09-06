@@ -1,5 +1,7 @@
 ### **Link direto do vercel https://meu-projeto-alura-psi.vercel.app** ###
 
+### **Link direto do GitHub https://gabrielgsantana.github.io/Meu-Projeto-Alura/** ###
+
 ###  **Descubra Tudo Sobre Coalas com um Clique!**
 
 **O que é esse projeto?**
