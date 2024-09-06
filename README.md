@@ -9,7 +9,7 @@
 
 **O que é esse projeto?**
 
-Imagine um lugar onde você pode encontrar todas as informações sobre os adoráveis coalas, desde seu habitat até curiosidades super legais! Esse é o nosso projeto! 
+Imagine um lugar onde você pode encontrar algumas informações sobre os adoráveis coalas, desde seu habitat até curiosidades super legais! Esse é o nosso projeto! 
 
 **Como funciona a mágica?**
 
