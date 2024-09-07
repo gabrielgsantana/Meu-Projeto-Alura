@@ -59,6 +59,15 @@ Este projeto foi criado para fins de aprendizado e experimentação. O código p
 
 
 
+## Licença
+
+Este projeto é distribuído sob a licença **MIT**.
+
+**Para fins educacionais apenas.**
+
+Este projeto foi criado para fins de aprendizado e experimentação. O código pode ser utilizado e modificado livremente para fins educacionais. 
+
+
 
 **Divirta-se e boa corrida!**
 
