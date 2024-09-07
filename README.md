@@ -50,6 +50,15 @@ Esse é um joguinho simples onde você controla um coala que precisa pular obst�
 * **JavaScript:** O cérebro do jogo, detectando comandos do teclado e controlando a movimentação do coala e dos obstáculos.
 
 
+## Licença
+
+Este projeto é distribuído sob a licença **MIT**.
+
+**Para fins educacionais apenas.**
+
+Este projeto foi criado para fins de aprendizado e experimentação. O código pode ser utilizado e modificado livremente para fins educacionais. 
+
+
 
 **Divirta-se e boa corrida!**
 
