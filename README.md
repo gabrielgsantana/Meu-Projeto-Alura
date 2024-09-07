@@ -43,6 +43,22 @@ Esse é um joguinho simples onde você controla um coala que precisa pular obst�
 * Até onde você consegue levar o coala?
 * Tente bater o seu próprio recorde!
 
+## Desafios da Criação
+
+A construção deste jogo foi uma jornada repleta de aprendizado e superação. Como iniciante, nunca havia me aventurado por este universo e, por isso, encontrei diversos obstáculos ao longo do caminho.
+
+**Horas de Dedicação e Colaboração:**
+
+Foram mais de 4 horas quebrando a cabeça junto com o Gemini para chegar a um resultado satisfatório. Cada pequena vitória era motivo de comemoração, mas também nos levava a novos desafios.
+
+**A Dificuldade da Locomoção:**
+
+Uma das maiores dificuldades foi implementar a mecânica de corrida do coala na parte inferior da tela. Era como um jogo de gato e rato: a cada ajuste, um novo bug surgia. Após inúmeras tentativas, finalmente identifiquei a raiz do problema e consegui solucionar.
+
+**Aprendizados:**
+
+Este projeto me proporcionou um crescimento significativo como desenvolvedor. Aprendi a lidar com a frustração, a buscar soluções criativas e a valorizar a importância da colaboração.
+
 **Por trás da brincadeira:**
 
 * **HTML:** Define a estrutura básica do jogo, como o campo de visão e os elementos.
