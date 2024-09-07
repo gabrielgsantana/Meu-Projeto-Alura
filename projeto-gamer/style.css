@@ -1,98 +1,105 @@
-*{
+/* Reseta os estilos padrão do navegador */
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-body{
+  }
+  
+  /* Oculta a barra de rolagem vertical */
+  body {
     overflow: hidden;
-}
-
-.game{
+  }
+  
+  /* Define o estilo geral da área de jogo */
+  .game {
     width: 100%;
     height: 100vh;
-    border-bottom: 30px solid rgb(55, 107, 62);
-    background :linear-gradient(rgb(14, 210, 236),rgb(254, 255, 254));
-    position: relative;
-    overflow: hidden;
-}
-
-.logo{
-    width:250px ;
+    border-bottom: 30px solid rgb(55, 107, 62); /* Cria o chão do jogo */
+    background: linear-gradient(rgb(14, 210, 236), rgb(254, 255, 254)); /* Define o gradiente de fundo */
+    position: relative; /* Posicionamento relativo para os elementos dentro */
+    overflow: hidden; /* Oculta qualquer conteúdo que ultrapasse os limites da área de jogo */
+  }
+  
+  /* Estilos para o logo do jogo */
+  .logo {
+    width: 250px;
     margin-left: 45%;
-    position: absolute;
-}
-.coala{
+    position: absolute; /* Posicionamento absoluto para colocar o logo em um lugar específico */
+  }
+  
+  /* Estilos para o coala */
+  .coala {
     width: 130px;
     position: absolute;
-    bottom:0;
-}
-.botao{
+    bottom: 0; /* Posiciona o coala na parte inferior da tela */
+  }
+  
+  /* Estilos para o botão */
+  .botao {
     position: absolute;
-    border-radius:10px;
+    border-radius: 10px;
     background-color: rgba(20, 75, 20, 0.527);
     margin-top: 50px;
     height: 50px;
     margin-left: 50px;
-}
-
-.pulo{
+  }
+  
+  /* Classe para aplicar a animação de pulo */
+  .pulo {
     animation: pulo 500ms ease-out;
-}
-.obstaculo{
+  }
+  
+  /* Estilos para o obstáculo */
+  .obstaculo {
     position: absolute;
     bottom: 0;
     width: 90px;
-    animation: obstaculo-animation 1.5s infinite linear;
-}
-.nuvem{
+    animation: obstaculo-animation 1.5s infinite linear; /* Animação para o movimento do obstáculo */
+  }
+  
+  /* Estilos para as nuvens */
+  .nuvem {
     position: absolute;
-    width:550px;
+    width: 550px;
     margin-top: 250px;
-    animation: nuvem-animation  5s infinite linear;
-}
-
-
-
-
-
-@keyframes pulo {
-    0%{
-        bottom: 0;
+    animation: nuvem-animation 5s infinite linear; /* Animação para o movimento das nuvens */
+  }
+  
+  /* Animação para o pulo do coala */
+  @keyframes pulo {
+    0% {
+      bottom: 0;
     }
-
-    40%{
-        bottom:170px;
+    40% {
+      bottom: 170px;
     }
-
-    50%{
-        bottom:170px;
+    50% {
+      bottom: 170px;
     }
-
-    60%{
-        bottom:170px;
+    60% {
+      bottom: 170px;
     }
-
-    100%{
-        bottom: 0;
+    100% {
+      bottom: 0;
     }
-}
-
-@keyframes obstaculo-animation {
-    from{
-        right: -90px;
+  }
+  
+  /* Animação para o movimento do obstáculo */
+  @keyframes obstaculo-animation {
+    from {
+      right: -90px;
     }
-
-    to{
-        right: 100%;
+    to {
+      right: 100%;
     }
-}
-
-@keyframes nuvem-animation {
-    from{
-    right: -550px;
+  }
+  
+  /* Animação para o movimento das nuvens */
+  @keyframes nuvem-animation {
+    from {
+      right: -550px;
     }
-
-    to{
-     right: 100%;
+    to {
+      right: 100%;
     }
-}
+  }
