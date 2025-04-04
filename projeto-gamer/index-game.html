@@ -4,23 +4,26 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Koaland</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css"> <!-- LINK PARA O ARQUIVO CSS -->
 </head>
 <body>
-  <div class="game">
+  <div class="game"> <!-- ÁREA PRINCIPAL DO JOGO -->
+    <img src="imagens/logo.png" alt="logo do jogo" class="logo"> <!-- LOGO DO JOGO -->
+    <img src="./imagens/coala-correndo.gif" alt="coala correndo" class="coala"> <!-- IMAGEM DO COALA CORRENDO -->
+    <img src="./imagens/obstaculo.png" alt="obstáculo para o coala pular" class="obstaculo"> <!-- OBSTÁCULO QUE O COALA PRECISA PULAR -->
+    <img src="./imagens/nuvem.png" alt="nuvens" class="nuvem"> <!-- ELEMENTO DE DECORAÇÃO (NUVENS) -->
     
-    <img src="imagens/logo.png" alt="logo do jogo" class="logo">
-
-    <img src="./imagens/coala-correndo.gif" alt="coala correndo" class="coala">
-
-    <img src="./imagens/obstaculo.png" alt="obstaculo para o coala pular" class="obstaculo">
-
-    <img src="./imagens/nuvem.png" alt="nuvens" class="nuvem">
-
-
-    <button class="botao" onclick="atualizarPagina()">REINICIAR</button>
+    <div id="score-display">Pontuação: 0</div> <!-- EXIBE A PONTUAÇÃO ATUAL -->
+    <div id="record-display">Recorde: 0</div> <!-- EXIBE O RECORDE ATUAL -->
   </div>
 
-  <script src="jogo.js"></script>
+  <div class="game-over-screen" id="game-over-screen"> <!-- TELA DE GAME OVER (ESCONDIDA POR PADRÃO) -->
+    <h2>Game Over</h2>  
+    <p id="final-score">Pontuação: 0</p> <!-- MOSTRA A PONTUAÇÃO FINAL DA PARTIDA -->
+    <p id="final-record">Recorde: 0</p> <!-- MOSTRA O RECORDE SALVO NO LOCALSTORAGE -->
+    <button onclick="atualizarPagina()">Reiniciar</button> <!-- BOTÃO PARA REINICIAR O JOGO -->
+  </div>
+
+  <script src="jogo.js"></script> <!-- LINK PARA O SCRIPT JAVASCRIPT -->
 </body>
 </html>
